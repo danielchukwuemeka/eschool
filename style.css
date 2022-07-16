@@ -299,3 +299,8 @@ small{
         line-height: 26px;
     }
 }
+section#starclick {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
